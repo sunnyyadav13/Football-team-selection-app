@@ -5,5 +5,5 @@
 2. run npm start --> it starts json-server on localhost:3006
 
 ## To start the football app
-3. Go to team-selection-app & run npm install 
-4. run npm start --> it start react project app on localhost:3000
+1. Go to team-selection-app & run npm install 
+2. run npm start --> it start react project app on localhost:3000
