@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+.table-responsive {
+  width: 500px;
+  height: 470px;
+  display: flex;
+  overflow: scroll;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.table-head {
+  position: sticky;
+  top: 0;
+}
+
+/* .PlayerListDiv{
+  background-color: aqua;
+  max-height: 500px;
+  width:400px;
+  margin-left: 200px;
+  margin-top: 50px;
+} */
+
+.parentDiv {
+  display: flex;
+}
+
+.playerListTable {
+  width: 600px;
+  height: 470px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  overflow: scroll;
+  margin-top: 50px;
+}
+.messageCSSDiv {
+  width: 100%;
+  display: flex;
+  margin-left: 20px;
+}
+.labelDivCss {
+  margin-left: 300px;
+  font-size: x-large;
+  color: cornflowerblue;
+}
+.buttonCssDiv {
+  margin-left: 300px;
+}
+.playerListBody {
+  height: 15px;
+}
+.allPlayerList {
+  margin-left: 40px;
+  margin-bottom: -30px;
+  margin-top: 50px;
+}
+.teamPlayerList {
+  margin-left: 40px;
+  margin-bottom: -30px;
+  margin-top: 50px;
+}
+.benchPlayerList {
+  margin-left: 40px;
+  margin-bottom: -30px;
+  margin-top: 50px;
+}
+.navBarCss{
+  margin-left: 600px;
+  font-size: x-large;
+}
